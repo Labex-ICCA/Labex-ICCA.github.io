@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.categories.ecrits %}
 <article class="{{ post.categories | first | downcase | append :'-box'}} module1 ">
   <div class="titre-categorie">
     <h4>{{ post.categories | first }}</h4>

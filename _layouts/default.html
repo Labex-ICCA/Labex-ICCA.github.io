@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>
 
-  <body>
-    <div id="wrapper">
+<body>
+  <div id="wrapper">
     <header>
-      <a href="{{ site.baseurl }}/"><img src="images/logo.png" width="400" class="logo" /></a>
+      <a href="{{ site.baseurl }}/"><img src="/images/logo.png" width="400" class="logo" /></a>
       <div class="blurb">
         <p>Pourquoi écrire et publier sur le web ce que l’on pense d’un film ou d’une série ? Quel site choisir pour ce faire ? Comment s’y prennent les critiques amateurs ? Quels blogs, quels forums, quelles pages sont-ils les plus visités en France ? Y a-t-il une façon propre au web d’écrire des critiques ? Quelles différences séparent ces textes de ceux des professionnels de la presse écrite ? Autant de questions dans l’attente d’une étude académique systématique de leurs réponses possibles. Venez découvrir sur cette page les enjeux du projets Cinéphilies / Sériphilies.</p>
         <div id="decouverte">
@@ -26,12 +27,11 @@
         </div>
       </div>
     </header>
-    <nav id="themes">
+    <nav class="themes">
       <ul>
-        <li><a href="#" id="actus-link">Actus</a></li>
-        <li><a href="#" id="evts-link">Événements</a></li>
-        <li><a href="#" id="media-link">Médias</a></li>
-        <li><a href="#" id="ecrit-link">Écrits</a></li>
+        {% for category in site.categories %}
+        <li><a href="/{{ category[0] }}.html" class="{{ category | first | downcase | append :'-link' | replace:'é','e' }}">{{ category[0] }}</a></li>
+        {% endfor %}
       </ul>
     </nav>
     <div class="clearfloat"></div>
@@ -41,6 +41,10 @@
     </nav>
     <div class="clearfloat"></div>
     <div id="content">
+      
+      {{ content }}
+      
+      <h1>Modèle Pia</h1>
       <section class="actus-box module1">
         <div class="titre-categorie">
           <h4>Actus</h4>
@@ -104,15 +108,13 @@
       </section>
     </div>
     <!--close content-->
-      <footer class="footer">
+    <footer class="footer">
       <h6>Copyright Labex © 2015</h6>
-          
-        </footer>
-    </div>
 
-        
+    </footer>
+  </div>
 
+  {% include analytics.html %}
+</body>
 
-    {% include analytics.html %}
-  </body>
 </html>

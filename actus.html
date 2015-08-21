@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{% for post in site.categories['Écrits'] %}
-<article class="{{ post.categories | first | downcase | replace: 'é','e' | replace: 'É','e' | append :'-box'}}">
+{% for post in site.categories['actus'] %}
+<article class="{{ post.categories | first | downcase | append :'-box'}}">
   <div class="titre-categorie">
     <h4>{{ post.categories | first }}</h4>
   </div>

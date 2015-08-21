@@ -970,8 +970,8 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     background-color: rgb(120, 216, 156);
   }
   
-  .evenement-link,
-  .evenement-box .titre-categorie {
+  .evenements-link,
+  .evenements-box .titre-categorie {
     background-color: rgb(253, 203, 50);
   }
   
@@ -1011,6 +1011,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     align-items: stretch;
     justify-content: center;
     margin-top: 0;
+    padding-top: 1rem; 
   }
 
   .actus-box {
@@ -1034,34 +1035,32 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     font-size: 1.5em;
   }
   
-  .module1,
-  .module2 {
+  [class$='-box'] {
     border-left: black solid 1px;
     border-right: black solid 1px;
     border-bottom: black solid 1px;
   }
   
-  .module1 {
+  [class$='-box'] {
     width: 15em;
     height: 250px;
     margin-left: 10px;
     margin-top: 10px;
+    margin: 0 10px 1rem;
+    .content-wrap {
+      padding: .5rem;
+    }
   }
   
-  .module2 {
+  .evenements-box {
     width: 30em;
     height: 250px;
-    margin-left: 10px;
-    margin-top: 10px;
+    .content-wrap {
+      padding: 1rem;
+    }
   }
   
-  .module1 .content-wrap {
-    padding: 10px;
-  }
-  
-  .module2 .content-wrap {
-    padding: 15px;
-  }
+  [class$='-box'] 
   
   footer {
     margin-top: 20px;
@@ -1077,8 +1076,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
   /*MEDIA QUERIES*/
   
   @media (max-width: 640px) {
-    .module1,
-    .module2 {
+    [class$='-box'] {
       width: 100%;
       margin-right: 10px;
     }

@@ -30,7 +30,7 @@
     <nav class="themes">
       <ul>
         {% for category in site.categories %}
-        <li><a href="/{{ category[0] }}.html" class="{{ category | first | downcase | append :'-link' | replace:'é','e' }}">{{ category[0] }}</a></li>
+        <li><a href="/{{ category[0] | downcase | replace:'é','e' | replace: 'É','e'}}.html" class="{{ category | first | downcase | append :'-link' | replace:'é','e' | replace: 'É','e' }}">{{ category[0] }}</a></li>
         {% endfor %}
       </ul>
     </nav>
@@ -44,68 +44,6 @@
       
       {{ content }}
       
-      <h1>Modèle Pia</h1>
-      <section class="actus-box module1">
-        <div class="titre-categorie">
-          <h4>Actus</h4>
-        </div>
-        <div class="content-wrap">
-          <h1><a href="#">Nouvelle bibliothèque</a></h1>
-          <aside class="author">
-            <h4>publié par <strong>Laurent Jullier</strong> le <strong>13/07/15</strong></h4>
-          </aside>
-        </div>
-        <!--fin content wrap-->
-      </section>
-      <section class="evts-box module2" style="background-image: url(images/conf.jpg);">
-        <div class="titre-categorie">
-          <h4>Événements</h4>
-        </div>
-        <div class="content-wrap">
-          <h1 style="background-color: #fff; font-size: 1.5em;"><a href="#">Colloque Nouvelles Cinéphilies à la Sorbonne</a></h1>
-          <aside class="author">
-            <h4 style="background-color: #fff;">publié par <strong>Laurent Jullier</strong> le <strong>13/07/15</strong></h4>
-          </aside>
-        </div>
-        <!--fin content wrap-->
-      </section>
-      <section class="actus-box module1">
-        <div class="titre-categorie">
-          <h4>Actus</h4>
-        </div>
-        <div class="content-wrap">
-          <h1><a href="#">Une critique mal perçue</a></h1>
-          <aside class="author">
-            <h4>publié par <strong>Mélanie Boissonneau</strong> le <strong>11/07/15</strong></h4>
-          </aside>
-        </div>
-        <!--fin content wrap-->
-      </section>
-      <section class="ecrits-box module1">
-        <div class="titre-categorie">
-          <h4>Écrits</h4>
-        </div>
-        <div class="content-wrap">
-          <h1><a href="#">« Trajectoires de la relocalisation »</a></h1>
-          <aside class="author">
-            <h4>écrit par<strong>Francesco Casetti</strong></h4>
-            <h4><em>Théorème</em> no. 15 - 2012</h4>
-          </aside>
-        </div>
-        <!--fin content wrap-->
-      </section>
-      <section class="media-box module2">
-        <div class="titre-categorie">
-          <h4>Médias</h4>
-        </div>
-        <div class="content-wrap">
-          <h1><a href="#">Le blog du critiqueur</a></h1>
-          <aside class="author">
-            <h4>en ligne depuis 2011 - actif</h4>
-          </aside>
-        </div>
-        <!--fin content wrap-->
-      </section>
     </div>
     <!--close content-->
     <footer class="footer">

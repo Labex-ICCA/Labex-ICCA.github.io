@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.categories['Écrits'] %}
+{% for post in site.categories['Événements'] %}
 <article class="{{ post.categories | first | downcase | replace: 'é','e' | replace: 'É','e' | append :'-box'}}">
   <div class="titre-categorie">
     <h4>{{ post.categories | first }}</h4>

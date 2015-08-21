@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blog du chroniqueur
+title: Colloque Nouvelles Cinéphilies à la Sorbonne
 author: Laurent Jullier
-categories: Médias
+categories: Événements
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).

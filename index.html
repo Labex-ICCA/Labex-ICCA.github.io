@@ -3,11 +3,11 @@ layout: default
 ---
 
 {% for post in site.posts %}
-<article class="{{ post.categories | first | downcase | append :'-box'}} module1 ">
+<article class="{{ post.categories | first | downcase | replace: 'é','e' | replace: 'É','e' | append :'-box'}}">
   <div class="titre-categorie">
-    <h4>{{ post.categories | first }}</h4>
+    <h4>{{ post.categories }}</h4>
   </div>
-  <div class="entry">
+  <div class="content-wrap">
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     <aside class="author">
       <h4>publié par <strong>{{ post.author }}</strong> le <strong>{{ post.date | date: "%d/%m/%Y" }}</strong></h4>

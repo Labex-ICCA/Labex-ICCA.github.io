@@ -22,7 +22,7 @@ body {
     padding: 0;
 	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $black;
 }
 
 p {
@@ -1014,7 +1014,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     padding-top: 1rem; 
   }
 
-  .actus-box {
+  .actus-box, .ecrits-box, .evenements-box, .medias-box{
     text-align: center;
   }
 
@@ -1098,3 +1098,30 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+/*CODE AJOUTE PAR PIA*/
+.post h1{
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+
+}
+
+.post figure{
+  border-bottom: 1px solid black;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.fiche-ecrits .fiche-intertitre{
+  background-color: #B5FFE1;
+}
+
+.fiche-ecrits .fiche-intertitre h2{
+  text-transform: uppercase;
+  font-size: 1em;
+  letter-spacing: 2px;
+  line-height: 1.5em;
+  padding: 2px;
+
+}

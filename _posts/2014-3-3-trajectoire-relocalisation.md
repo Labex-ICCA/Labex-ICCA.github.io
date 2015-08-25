@@ -11,7 +11,7 @@ categories: Écrits
 	</figure>	
 
 	<section id="fiche-main">
-	</br>
+  
 		<div class="fiche-intertitre">
 			<h2>Informations Bibliographiques</h2>
 		</div>	
@@ -27,6 +27,7 @@ categories: Écrits
 		<p id="editeur"><strong>Édité par : </strong>Presse de la Sorbonne Nouvelle</p>	
 
 		<p id="ville"><strong>À :</strong> Paris</p>
+
 	</section>
 
 	<aside id="fiche-resume">
@@ -48,10 +49,7 @@ categories: Écrits
 		<p>
 		<a href="#">cinéphilies</a>, <a href="#">histoire</a>, <a href="#">mesure de l’art</a>, <a href="#">plaisir</a>	
 		</p>
-
 	</aside>
 
-
 </div>
-=======
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+

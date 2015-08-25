@@ -4,10 +4,36 @@ layout: default
 
 <article class="post article-wrap">
   <h1>{{ page.title }}</h1>
+  
+  
+  {% if page.categories contains 'Écrits' %}
+    <aside id="fiche-main">
 
-  <div class="entry">
+    <div class="fiche-intertitre">
+      <h2>Informations Bibliographiques</h2>
+    </div>  
+
+    <p id="direction"><strong>Dirigé par :</strong> {{ page.director }}</p>
+
+    <p id="author"><strong>Auteur(s) :</strong> {{ page.writers }}</p>
+  
+    <p id="dop"><strong>Date de publication :</strong> {{ page.publication }}</p>
+
+    <p id="collection"><strong>Collection : </strong> {{ page.collection }}</p>
+
+    <p id="collection"><strong>Numéro : </strong> {{ page.number }}.</p>
+
+    <p id="editeur"><strong>Édité par : </strong>{{ page.editor }}</p> 
+
+    <p id="ville"><strong>À :</strong> {{ page.town }}</p>
+  </aside>
+
+  {% endif %}
+
+  <section id="fiche-resume">
     {{ content }}
-  </div>
+  </section>
+
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}

@@ -1014,7 +1014,14 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     padding-top: 1rem; 
   }
 
-  .actus-box, .ecrits-box, .evenements-box, .medias-box{
+
+  .article-wrap {
+    margin: 0 auto;
+    padding: 0 0.5rem;
+    max-width: 45rem;
+  }
+
+.actus-box, .ecrits-box, .evenements-box, .medias-box {
     text-align: center;
   }
 

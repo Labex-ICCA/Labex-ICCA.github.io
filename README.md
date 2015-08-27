@@ -1,3 +1,14 @@
+<p>Avancées du 27 août // Pia</p>
+<p>- j'ai continué de mettre mon css en bout de page sous le commentaire ad hoc</p>
+<p>- créé une conditionnelle dans la page événements dans post.html</p>
+<p>- checker d'ailleurs si j'ai fait bon usage des   {% endif %} (pas sûre pour l'imrbrication). J'ai essayé de mettre des conditionnelles pour faire remonter le nom de l'auteur en tête de posts quand le post est de type Actus... pas très probant. Donc j'ai fait du html, voir si on peut le basculer après dans le template !.</p>
+<p>- ">Résumé / Sommaire" en h2, qui est un titre uniquement pour les pages écrits, est visible sur toutes ?</p>
+
+<p><strong>Suggestion de choses à faire : </strong></p>
+<p>-gérer la longueur des titres dans les posts sur la main (couper les titres au-delà d'une certaines longueur, car c'est sûr que nos amis universitaires vont déborder !). Ou alors passer un paramètre pour que la taille du texte s'adapte, est-ce faisable ? </p>
+
+
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))

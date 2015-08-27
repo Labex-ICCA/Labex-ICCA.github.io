@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $asap;
   color: $black;
   font-weight: bold;
 
@@ -215,7 +215,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $asap;
   font-size: 18px;
 
   @include mobile {
@@ -1012,6 +1012,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
     justify-content: center;
     margin-top: 0;
     padding-top: 1rem; 
+    padding-bottom: 30px; /*ajout Pia*/
   }
 
 
@@ -1069,7 +1070,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
   
   [class$='-box'] 
   
-  footer {
+  footer{
     margin-top: 20px;
     height: 54px;
     padding: 5px;
@@ -1116,6 +1117,7 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
 
 .post figure{
   border-bottom: 1px solid black;
+  margin-bottom: 10px;
   padding-bottom: 1em;
   text-align: center;
 }
@@ -1132,3 +1134,26 @@ Inlined to avoid required HTTP connection: h5bp.com/r */
   padding: 2px;
 
 }
+
+.fiche-evenements{
+  
+}
+
+.footer{
+  border-top: solid 1px black;
+}
+
+.actus-details{
+  font-family: $asap;
+  display: block;
+  background-color : #60AD7D;
+  color: $white;
+  margin-bottom: 10px;
+  padding: 5px 0 5px 10px;
+}
+
+.actus-details .details a{
+  color: $white; 
+}
+
+

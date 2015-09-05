@@ -36,10 +36,10 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "permalink"
+      - name: "author"
         field:
           element: "text"
-          label: "Permalink"
+          label: "Auteur"
           value: ""
       - name: "categories"
         field:
@@ -49,5 +49,4 @@ prose:
         field:
           element: "text"
           label: "Auteur"
-          placeholder: "Indiquer l'auteur du billet"
           value: ""

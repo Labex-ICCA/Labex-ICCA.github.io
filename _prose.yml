@@ -35,10 +35,17 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
+          value: "post"
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
           value: ""
-      
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Actus"
+      - name: "author"
+        field:
+          label: "Auteur"
+          placeholder: "Indiquer l'auteur du billet"

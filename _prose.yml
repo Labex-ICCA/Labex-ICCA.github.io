@@ -40,3 +40,8 @@ prose:
           element: "text"
           label: "Auteur"
           value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"

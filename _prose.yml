@@ -74,44 +74,34 @@ prose:
           element: "text"
           label: "Directeur"
           value: ""
-      - name: "written-director"
-        field:
-          element: "text"
-          label: "Directeur"
-          value: ""
       - name: "written-writers"
         field:
           element: "text"
-          label: "Directeur"
+          label: "Auteurs"
           value: ""
       - name: "written-publication"
         field:
           element: "text"
-          label: "Directeur"
+          label: "Publication"
           value: ""
       - name: "written-collection"
         field:
           element: "text"
-          label: "Directeur"
+          label: "Collection"
           value: ""
       - name: "written-number"
         field:
           element: "number"
-          label: "Directeur"
+          label: "Nombre"
           value: ""
       - name: "written-editor"
         field:
           element: "text"
-          label: "Directeur"
+          label: "Éditeur"
           value: ""
       - name: "written-town"
         field:
           element: "text"
-          label: "Directeur"
-          value: ""
-      - name: "written-director"
-        field:
-          element: "text"
-          label: "Directeur"
+          label: "Ville"
           value: ""
 

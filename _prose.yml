@@ -47,6 +47,7 @@ prose:
           value: "Actus"
       - name: "author"
         field:
+          element: "text"
           label: "Auteur"
           placeholder: "Indiquer l'auteur du billet"
           value: ""

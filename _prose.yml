@@ -104,4 +104,90 @@ prose:
           element: "text"
           label: "Ville"
           value: ""
-
+    _posts/evenement:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Écrits"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+      - name: "event-title"
+        field:
+          element: "text"
+          label: "Nom de l'événement"
+          value: ""
+      - name: "event-date"
+        field:
+          label: "Date (JJ-MM-AAAA)"
+          value: "08-06-2015"
+      - name: "event-information"
+        field:
+          element: "text"
+          label: "Informations"
+          value: ""
+      - name: "event-contact"
+        field:
+          element: "multiselect"
+          label: "Contact"
+          placeholder: "Choisir des emails"
+    _posts/medias:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Écrits"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+      - name: "media-url"
+        field:
+          element: "text"
+          label: "Nom de l'événement"
+          value: ""
+      - name: "media-date"
+        field:
+          element: "number"
+          label: "Informations"
+          value: ""
+      - name: "media-view"
+        field:
+          element: "text"
+          label: "Nom de l'événement"
+          value: ""
+      - name: "media-rythm"
+        field:
+          element: "text"
+          label: "Rythme de publication"
+          value: ""

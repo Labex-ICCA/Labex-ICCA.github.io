@@ -45,3 +45,73 @@ prose:
           element: "multiselect"
           label: "Ajouter des tags"
           placeholder: "Choisir Tags"
+    _posts/ecrits:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "Écrits"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Auteur"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Ajouter des tags"
+          placeholder: "Choisir Tags"
+      - name: "written-director"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-director"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-writers"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-publication"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-collection"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-number"
+        field:
+          element: "number"
+          label: "Directeur"
+          value: ""
+      - name: "written-editor"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-town"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+      - name: "written-director"
+        field:
+          element: "text"
+          label: "Directeur"
+          value: ""
+

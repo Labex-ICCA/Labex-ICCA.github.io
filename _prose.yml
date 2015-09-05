@@ -36,15 +36,15 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "author"
-        field:
-          element: "text"
-          label: "Auteur"
-          value: ""
       - name: "categories"
         field:
           element: "hidden"
           value: "Actus"
+      - name: "title"
+        field:
+          element: "text"
+          label: "titre du billet"
+          value: ""
       - name: "author"
         field:
           element: "text"

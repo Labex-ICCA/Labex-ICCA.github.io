@@ -49,3 +49,4 @@ prose:
         field:
           label: "Auteur"
           placeholder: "Indiquer l'auteur du billet"
+          value: ""

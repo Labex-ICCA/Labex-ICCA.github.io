@@ -7,9 +7,9 @@ event-title: CINEPHILIES/SERIEPHILIES 2.0 Colloque organisé par le LABEX ICCA (
 event-date: 30 Juin 2015 / 23:30
 event-information: Mélanie Boissonneau (Post-Doctorante Labex ICCA), François Jost (Professeur Sorbonne-Nouvelle) et Laurent Jullier (Professeur Université de Lorraine)
 event-contact:
-  - mail: "laurent.Jullier@univ-paris3.fr"
-  - mail: "francois.jost@univ-paris3.fr"
-  - mail: "boissonneau.m@gmail.com"
+  - "laurent.Jullier@univ-paris3.fr"
+  - "francois.jost@univ-paris3.fr"
+  - "boissonneau.m@gmail.com"
 ---
 	
 

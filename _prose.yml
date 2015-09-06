@@ -132,8 +132,9 @@ prose:
           value: ""
       - name: "event-date"
         field:
-          label: "Date (JJ-MM-AAAA)"
-          value: "08-06-2015"
+          element: "text"
+          label: "Date (JJ Mois AAAA / HH:MM)"
+          value: "30 Juin 2015 / 23:30"
       - name: "event-information"
         field:
           element: "text"

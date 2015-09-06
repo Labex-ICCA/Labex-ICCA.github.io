@@ -38,7 +38,7 @@ layout: default
       <h2>Fiche technique de la source</h2>
     </div>  
 
-    {% if page.media-url %}<p class="source"><strong>Source : </strong><a href="{{ page.media-url }}">Voir le site</a></p>{% endif %}
+    {% if page.media-url %}<p class="source"><strong>Source : </strong><a href="{{ page.media-url }}">{{ page.media-name }}</a></p>{% endif %}
     {% if page.media-date %}<p class="date"><strong>Date de création :</strong> {{ page.media-date }}</p>{% endif %}
     {% if page.media-view %}<p class="nbre-vues"><strong>Nombres de vues : </strong> {{ page.media-view }}</p>{% endif %}
     {% if page.media-rythm %}<p class="nb-publi"><strong>Rythme de publication :</strong> {{ page.media-rythm }}</p>{% endif %}

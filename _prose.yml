@@ -74,12 +74,12 @@ prose:
       - name: "written-director"
         field:
           element: "text"
-          label: "Directeur"
+          label: "Directeur(s)"
           value: ""
       - name: "written-writers"
         field:
           element: "text"
-          label: "Auteurs"
+          label: "Auteur(s)"
           value: ""
       - name: "written-publication"
         field:
@@ -106,7 +106,7 @@ prose:
           element: "text"
           label: "Ville"
           value: ""
-    _posts/evenement:
+    _posts/evenements:
       - name: "layout"
         field:
           element: "hidden"
@@ -125,12 +125,6 @@ prose:
           element: "text"
           label: "Auteur"
           value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Ajouter des tags"
-          placeholder: "Choisir Tags"
-          alterable: true
       - name: "event-title"
         field:
           element: "text"
@@ -175,20 +169,24 @@ prose:
           label: "Ajouter des tags"
           placeholder: "Choisir Tags"
           alterable: true
+      - name: "media-name"
+        field:
+          element: "text"
+          label: "Nom du site"
+          value: ""
       - name: "media-url"
         field:
           element: "text"
-          label: "Nom de l'événement"
+          label: "Adresse du site"
           value: ""
       - name: "media-date"
         field:
-          element: "number"
-          label: "Informations"
-          value: ""
+          label: "Date (JJ-MM-AAAA)"
+          value: "08-06-2015"
       - name: "media-view"
         field:
           element: "text"
-          label: "Nom de l'événement"
+          label: "Fréquentation"
           value: ""
       - name: "media-rythm"
         field:

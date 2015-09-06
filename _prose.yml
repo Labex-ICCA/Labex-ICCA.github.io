@@ -140,7 +140,7 @@ prose:
           element: "text"
           label: "Informations"
           value: ""
-      - name: "event-contact.mail"
+      - name: "event-contact"
         field:
           element: "multiselect"
           label: "Contact"

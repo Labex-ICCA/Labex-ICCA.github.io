@@ -9,7 +9,7 @@ event-information: Mélanie Boissonneau (Post-Doctorante Labex ICCA), François 
 event-contact:
   - mail: "laurent.Jullier@univ-paris3.fr"
   - mail: "francois.jost@univ-paris3.fr"
-  - mail: "boissonneau.m@gmail.com"
+  - mail: "boissonneau.m@gmail.coooo"
 ---
 	
 

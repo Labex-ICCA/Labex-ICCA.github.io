@@ -114,7 +114,7 @@ prose:
       - name: "categories"
         field:
           element: "hidden"
-          value: "Écrits"
+          value: "Événements"
       - name: "title"
         field:
           element: "text"
@@ -144,6 +144,7 @@ prose:
           element: "multiselect"
           label: "Contact"
           placeholder: "Choisir des emails"
+          alterable: true
     _posts/medias:
       - name: "layout"
         field:

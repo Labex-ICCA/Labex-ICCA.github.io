@@ -1,7 +1,7 @@
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: ''
+  rooturl: '_posts'
   siteurl: 'http://bertrandkeller.github.io/Labex'
   relativeLinks: 'http://bertrandkeller.github.io/Labex/links.jsonp'
   media: 'media'

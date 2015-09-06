@@ -3,7 +3,7 @@ layout: default
 tags : [web, jekyll]
 ---
 
-{% for post in site.categories['actus'] limit:5 %}
+{% for post in site.categories['actus'] limit:1 %}
 <article class="{{ post.categories | first | downcase | append :'-box'}}">
   <div class="titre-categorie">
     <h4>{{ post.categories | first }}</h4>
@@ -16,6 +16,18 @@ tags : [web, jekyll]
   </div>
 </article>
 {% endfor %}
+
+{% if page.previous %}
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a></li>
+      {% else %}
+        <li class="prev disabled"><a>&larr; Précédent</a></li>
+      {% endif %}
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Liste des actualités</a></li>
+      {% if page.next %}
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Suivant &rarr;</a>
+      {% endif %}
 
 <div class="pagination">
   {% if paginator.next_page %}

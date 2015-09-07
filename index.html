@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <article class="{{ post.categories | first | downcase | replace: 'é','e' | replace: 'É','e' | append :'-box'}}">
   <div class="titre-categorie">
-    <h4>{{ post.categories }}</h4>
+    <p>{{ post.categories }}</p>
   </div>
   <div class="content-wrap">
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -18,23 +18,25 @@ layout: default
 
 <!-- Pagination links -->
 <div class="pagination">
+  <div class="pagination_int">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">Précédent</a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous">Précédent</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <!-- <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> -->
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path }}" class="next">Suivant</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">Suivant</span>
   {% endif %}
+  </div>
 </div>
 
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Précédent</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
@@ -50,10 +52,11 @@ layout: default
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Suivant &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
 
+ -->

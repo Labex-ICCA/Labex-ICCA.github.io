@@ -1045,11 +1045,12 @@ p {
 }
 
 header {
-  padding: 10px 50px 10px 10px;
+  padding: 10px;
   margin-top: 30px;
 }
 
 header .blurb {
+  padding: 0 20px;
   text-align: center;
 }
 
@@ -1080,7 +1081,6 @@ header #decouverte a:hover {
 
 .themes ul {
   width: 100%;
-  height: 54px;
   display: block;
   margin: 0;
   padding: 0;
@@ -1096,18 +1096,32 @@ header #decouverte a:hover {
 
 .themes a {
   text-transform: uppercase;
-  line-height: 3em;
+  line-height: 2em;
   text-align: center;
   letter-spacing: 5px;
   border: solid 1px #fff;
-  height: 54px;
   margin: 0;
   padding: 5px 30px;
   display: block;
+  color: #000;
 }
 
 .themes a:hover {
   opacity: 0.8;
+  color: #fff;
+  text-decoration: none;
+}
+
+.titre-categorie {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  p {
+    margin: 0;
+    padding: .5rem 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+    text-transform: capitalize;
+  }
 }
 
 .actus-link,
@@ -1174,11 +1188,6 @@ header #decouverte a:hover {
   text-align: center;
 }
 
-.actus-box .titre-categorie h4 {
-  display: block;
-  height: 26px;
-}
-
 .actus-box .author {
   font-size: 0.8em;
 }
@@ -1223,6 +1232,26 @@ header #decouverte a:hover {
 }
 
 
+/*Pagination*/
+
+.pagination {
+  display: block;
+  padding: .5rem 1rem;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  .pagination_int {
+    margin: 0 auto;
+    max-width: 80rem;
+  }
+  .previous {
+    float: left;
+  }
+  .next {
+    float: right;
+  }
+}
+
 /*IMAGES*/
 
 .logo {
@@ -1237,7 +1266,7 @@ header #decouverte a:hover {
     width: 100%;
     margin-right: 10px;
   }
-  #themes ul li {
+  .themes ul li {
     list-style-type: none;
     float: left;
     display: block;

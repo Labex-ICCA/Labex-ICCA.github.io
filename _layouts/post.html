@@ -96,7 +96,7 @@ layout: default
       </div>  
       <p>
         {% for tag in page.tags %}
-            <a class="codinfox-tag-mark" href="{{ site.baseurl }}/tag.html#{{ tag | slugify }}">{{ tag }}</a>
+            <a href="{{ site.baseurl }}/tag.html#{{ tag | slugify }}">{{ tag }}</a>
         {% endfor %}
       </p>
     </aside>

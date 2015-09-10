@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Les actualités
 ---
 
 {% for post in site.categories['actus'] limit:5 %}
 <article class="{{ post.categories | first | downcase | append :'-box'}}">
   <div class="titre-categorie">
-    <h4>{{ post.categories | first }}</h4>
+    <p>{{ post.categories | first }}</p>
   </div>
   <div class="content-wrap">
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

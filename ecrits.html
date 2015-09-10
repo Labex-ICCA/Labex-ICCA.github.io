@@ -1,11 +1,12 @@
 ---
 layout: default
+tilte: Les Écrits
 ---
 
 {% for post in site.categories['Écrits']%}
 <article class="{{ post.categories | first | downcase | replace: 'é','e' | replace: 'É','e' | append :'-box'}}">
   <div class="titre-categorie">
-    <h4>{{ post.categories | first }}</h4>
+    <p>{{ post.categories | first }}</p>
   </div>
   <div class="content-wrap">
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

@@ -315,6 +315,19 @@ AddDefaultCharset utf-8
 #    </FilesMatch>
 # </IfModule>
 
+<IfModule mod_headers.c>
+    # Don't allow inline JavaScript to run.
+    Header always append X-Frame-Options SAMEORIGIN
+    Header set Content-Security-Policy "script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google.com http://www.google-analytics.com https://apis.google.com"
+
+    # prevent mime based attacks
+    Header set X-Content-Type-Options: 'nosniff'
+    Header set X-Content-Type-Options nosniff
+
+    # Turn on IE8-IE9 XSS prevention tools
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
 # ------------------------------------------------------------------------------
 # | File access                                                                |
 # ------------------------------------------------------------------------------

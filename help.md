@@ -1,13 +1,16 @@
 PROTOCOLE D'USAGE DU SITE LABEX
 
 - CONNEXION
+Votre identifiant : Labex-ICCA
+votre mot de passe : 
 
 - ÉDITION D'UN POST
-1. Aller sur la page du dépôt "********".
-
+1. Aller sur la page du dépôt http://prose.io/#Labex-ICCA/Labex-ICCA.github.io
+2. Observer que 4 dossiers existent ; un par type de post.
+Choisir par exemple "écrits".
 
 pour créer un nouveau post : 
-- appuyer sur le bouton vert "new file". Un post est automatiquement créé, avec la date et le texte à remplacer "your-filename". Toujours remplacer ce titre par 
+- appuyer sur le bouton vert "new file". Un post est automatiquement créé, avec la date et le texte à remplacer "your-filename". Toujours remplacer ce titre par le titre du post.
 - remplacer "## A New Post" par le titre du post souhaité. C'est ce titre qui apparaîtra sur la page rassemblant tous les posts, et donc aussi la page d'accueil.
 - Pour faire apparaître des titres, surligner le texte choisi et cliquer sur "h2" pour un titre de premier niveau ; "h3" pour un titre de second niveau. On peut aussi faire précéder un titre de premier niveau de "##" ou un titre de second niveau de "###". Le résultat est le même.
 - les boutons du tableau de bord servent
@@ -25,6 +28,7 @@ pour créer un nouveau post :
 - d'ajouter les méta-données, c'est-à-dire le nom des tags ou catégories que vous associez à votre post ; par exemple : cinéma, cinéphilie, plaisir, etc. Séparez les termes par des virgules et veillez à les orthographier toujours de la même manière.
 - gestionnaire de suivi des changements dans un post (pour les posts longs ou co-rédigés).
 
+Une fois que vous êtes prêt à publier : cliquer sur "unpublished" à droite de la zone d'édition. Le message devient "Published". Cliquer sur l'icône de disquette pour valider définitivement la publication.
 
 
 

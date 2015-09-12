@@ -4,7 +4,7 @@ title: Appels à Communications Colloque Nouvelles Cinéphilies à la Sorbonne
 author: Laurent Jullier
 categories: Événements
 event-title: CINEPHILIES/SERIEPHILIES 2.0 Colloque organisé par le LABEX ICCA (IRCAV+CEISME)
-event-date: 30 Juin 2015 / 23:30
+event-date: pour l'envoi des propositions 30 Juin 2015 / 23:30
 event-information: Mélanie Boissonneau (Post-Doctorante Labex ICCA), François Jost (Professeur Sorbonne-Nouvelle) et Laurent Jullier (Professeur Université de Lorraine)
 event-contact:
   - "laurent.Jullier@univ-paris3.fr"

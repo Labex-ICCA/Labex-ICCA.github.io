@@ -60,7 +60,7 @@ layout: default
     </div>  
     
     {% if page.event-title %}<p class="titre-evenement"><strong>{{ page.event-title }}</strong></p>{% endif %}
-    {% if page.event-date %}<p class="date-limite"><strong>Date limite d'envoi des propositions :</strong> {{ page.event-date }}</p>{% endif %}
+    {% if page.event-date %}<p class="date-limite"><strong>Dates :</strong> {{ page.event-date }}</p>{% endif %}
     {% if page.event-information %}<p class="organisation"><strong>Organisation :</strong> {{ page.event-information }}</p>{% endif %}
     
     {% if page.event-contact %}
@@ -82,6 +82,9 @@ layout: default
   {% endif %}
 
   <section id="fiche-resume">
+     <div class="fiche-intertitre">
+          <h2>Contenu</h2>
+        </div>
     {{ content }}
   </section>
   

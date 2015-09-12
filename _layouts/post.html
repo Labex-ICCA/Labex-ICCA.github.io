@@ -82,7 +82,6 @@ layout: default
   {% endif %}
 
   <section id="fiche-resume">
-    <h2>Contenu</h2>
     {{ content }}
   </section>
   
@@ -96,7 +95,7 @@ layout: default
       </div>  
       <p>
         {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tag.html#{{ tag | slugify }}">{{ tag }}</a>
+            <a href="{{ site.baseurl }}/tag.html#{{ tag | slugify }}" class="tag-frame">{{ tag }}</a>
         {% endfor %}
       </p>
     </aside>

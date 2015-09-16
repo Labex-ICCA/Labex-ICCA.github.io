@@ -13,9 +13,10 @@ tags:
 "written-number": .nan
 "written-editor": L’Harmattan
 "written-town": Paris
-published: false
+published: true
 title: Les nouvelles pratiques cinéphiles
 ---
+
 
 ## Les nouvelles pratiques cinéphiles
 Quelles sont les mutations à l'oeuvre dans les pratiques cinéphiles, notamment depuis 

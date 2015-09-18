@@ -9,11 +9,15 @@ prose:
     - index.html
     - actus.html
     - ecrits.html
+    - medias.html
     - evenements.html
     - tag.html
     - _config.yml
     - _prose.yml
+    - feed.xml
     - links.jsonp
+    - styles.scss
+    - LICENSE
     - CNAME
     - .gitignore
     - .htaccess
@@ -21,6 +25,7 @@ prose:
     - /_includes
     - /_sass
     - /images
+    - /javascripts
   metadata:
     _posts:
       - name: "layout"

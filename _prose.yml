@@ -1,7 +1,7 @@
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://bertrandkeller.github.io/Labex'
   relativeLinks: 'http://bertrandkeller.github.io/Labex/links.jsonp'
   media: 'media'
@@ -12,9 +12,15 @@ prose:
     - evenements.html
     - tag.html
     - _config.yml
+    - _prose.yml
+    - links.jsonp
+    - CNAME
+    - .gitignore
+    - .htaccess
     - /_layouts
     - /_includes
-    - _sass
+    - /_sass
+    - /images
   metadata:
     _posts:
       - name: "layout"

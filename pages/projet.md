@@ -2,6 +2,9 @@
 layout: page
 ---
 
+Pour tout renseignement ou demande, n'hésitez pas à nous contacter : 
+cinephilies2.0[at]gmail.com
+
 #Le projet#
 
 Ce projet se propose d’analyser la « critique sauvage » des films et des séries télé, plus justement appelée expertise profane par les sociologues de la culture.

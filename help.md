@@ -30,6 +30,12 @@ pour créer un nouveau post :
 
 Une fois que vous êtes prêt à publier : cliquer sur "unpublished" à droite de la zone d'édition. Le message devient "Published". Cliquer sur l'icône de disquette pour valider définitivement la publication.
 
+Pour effacer un post : 
+- cliquer sur le post
+- aller sur l'icône roue dentée
+- sélectionner "delete this post"
+nb: les changements peuvent mettre du temps à être matérialisés sur le site.
+
 
 
 

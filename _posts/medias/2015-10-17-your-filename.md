@@ -13,7 +13,9 @@ title: Séminaire Cinéphilies/sériephilies 2.0
 
 
 
-## Séance 1### **Jean-Marc  Leveratto** (Professeur  Université  de  Lorraine):“L’observation  de  la   sociabilité  littéraire  sur  Internet.  De  la  sociologie  des  amateurs  à  la  sociologie  de   l'expertise" et **Clément   Combes**   (Docteur   en   sociologie,   ATER):   “Modes   d'expression   et   pratiques  d'échanges  des  amateurs  de  séries  sur  Internet". ___http://epresence.univ-paris3.fr/3/Watch/811786.aspx_
+## Séance 1### 
+**Jean-Marc  Leveratto** (Professeur  Université  de  Lorraine):“L’observation  de  la   sociabilité  littéraire  sur  Internet.  De  la  sociologie  des  amateurs  à  la  sociologie  de   l'expertise" et **Clément   Combes**   (Docteur   en   sociologie,   ATER):   “Modes   d'expression   et   pratiques  d'échanges  des  amateurs  de  séries  sur  Internet". 
+___http://epresence.univ-paris3.fr/3/Watch/811786.aspx_
 
 
 

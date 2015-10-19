@@ -10,13 +10,7 @@ tags: null
 "written-editor": ""
 "written-town": ""
 published: false
-<<<<<<< HEAD
 title: Titre
-||||||| parent of 3dddd23... essai sur les articles
-title: ""
-=======
-title: "Yo"
->>>>>>> 3dddd23... essai sur les articles
 ---
 
 

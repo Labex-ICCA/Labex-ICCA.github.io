@@ -13,6 +13,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 paginate: 10
 
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "posts"
 
 #
 # Flags below are optional

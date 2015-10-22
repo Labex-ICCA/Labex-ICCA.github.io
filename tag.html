@@ -45,9 +45,9 @@ Here we generate all the tags.
       {{ post.title }}
       <small>{{ post.date | date_to_string }}</small>
     </a>
-    {% for tag in post.tags %}
-    <a href="/blog/tag/#{{ tag | slugify }}" class="tag-frame">{{ tag }}</a>
-    {% endfor %}
+    <!-- {% for tag in post.tags %}
+    <a href="/tag.html#{{ tag | slugify }}" class="tag-frame">{{ tag }}</a>
+    {% endfor %} -->
   </h3>
 </div>
 {% endif %}

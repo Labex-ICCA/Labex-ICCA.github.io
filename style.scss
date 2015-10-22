@@ -1330,7 +1330,7 @@ header .blurb {
 }
 
 .fiche-ecrits .fiche-intertitre {
-  background-color: #B5FFE1;
+  background-color: #b5ffe1;
 }
 
 .fiche-intertitre h2 {
@@ -1348,10 +1348,11 @@ header .blurb {
   background-color: $darkGray;
 }
 
-.footer h6{
+.footer p {
+  margin: 0;
   font-weight: 400;
-  color: $white;
   letter-spacing: 4px;
+  color: $white;
 }
 
 .actus-details {
@@ -1362,7 +1363,6 @@ header .blurb {
   color: $white;
   background-color: #60ad7d;
 }
-
 
 .actus-details .details a {
   color: $white;
@@ -1379,7 +1379,6 @@ header .blurb {
   background-color: $lightcorail;
 }
 
-
 .block-tag .tag-frame,
 .codinfox-tag-mark,
 .tag-frame {
@@ -1394,5 +1393,3 @@ header .blurb {
   color: #000;
   text-decoration: line-through; 
 }
-
-

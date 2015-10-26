@@ -7,7 +7,7 @@ tags: null
 "media-view": ""
 "media-rythm": ""
 published: false
-title: ""
+title: Séminaire
 ---
 
 ## Séminaire Cinéphilies/Sériephilies 2.0 IRCAV + CEISME
@@ -16,5 +16,7 @@ title: ""
 **Célia Sauvage** (Docteure Paris 3): "Minorités, diversités et politiques de résistance de la sériephilie, à travers le cas de la série télévisée Orange is the New Black (Netflix, 2013-­ )"
 
 **Fanny Beuré** (Docteure Paris 7): "Amateurs de comédie musicale hollywoodienne sur Internet: renouvellement d’un genre classique par les pratiques spectatorielles de l’ère numérique". 
+
+La séance en vidéo: [http://epresence.univ-paris3.fr/3/Watch/1560171.aspx]()
 
 

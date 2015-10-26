@@ -11,7 +11,8 @@ published: false
 title: "Séminaire "
 ---
 
-## Séminaire Cinéphilies/Sériephilies 2.0
+
+## Séminaire Cinéphilies/Sériephilies 2.0 IRCAV + CEISME
 ### Séance 2
 
 
@@ -22,4 +23,3 @@ title: "Séminaire "
 La séance en vidéo: [http://epresence.univ-paris3.fr/3/Watch/920463.aspx]( "séance 2")
 
 ![]({{site.baseurl}}/)
-

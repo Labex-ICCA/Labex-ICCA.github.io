@@ -12,7 +12,8 @@ title: "Séminaire "
 ---
 
 ## Séminaire Cinéphilies/Sériephilies 2.0
-Séance 2
+### Séance 2
+
 
 **Salomé La Sala-Urbain** (Doctorante Paris 3): "Usage d'une discursivité cinéphilique 2.0 associée à Quentin Tarantino sur la plateforme communautaire Sens Critique". 
 

@@ -18,5 +18,5 @@ title: Séminaire
 **Fanny Beuré** (Docteure Paris 7): "Amateurs de comédie musicale hollywoodienne sur Internet: renouvellement d’un genre classique par les pratiques spectatorielles de l’ère numérique". 
 
 La séance en vidéo: [http://epresence.univ-paris3.fr/3/Watch/1560171.aspx]()
-
+![]({{site.baseurl}}/)
 

@@ -1,5 +1,6 @@
 ---
 categories: Écrits
+layout: post
 author: ""
 tags: 
   - "null"
@@ -7,9 +8,10 @@ tags:
 "media-url": ""
 "media-view": ""
 "media-rythm": ""
-published: false
-title: "Séminaire "
+published: true
+title: Séminaire Cinéphilies/Sériephilies 2.0 n°2
 ---
+
 
 
 ## Séminaire Cinéphilies/Sériephilies 2.0 IRCAV + CEISME

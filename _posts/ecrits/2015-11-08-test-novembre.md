@@ -2,7 +2,8 @@
 categories: Écrits
 layout: post
 author: ""
-tags: null
+tags: 
+  - "null"
 "written-director": ""
 "written-writers": ""
 "written-publication": ""
@@ -10,7 +11,7 @@ tags: null
 "written-number": 0
 "written-editor": ""
 "written-town": ""
-published: false
+published: true
 title: "test novembre "
 ---
 

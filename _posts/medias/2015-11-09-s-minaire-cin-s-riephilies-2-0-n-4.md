@@ -1,15 +1,18 @@
 ---
 categories: Écrits
 layout: post
-author: ""
-tags: null
+author: "mélanie "
+tags: 
+  - cinéphilie
+  - numérique
 "media-name": ""
 "media-url": ""
 "media-view": ""
 "media-rythm": ""
-published: false
+published: true
 title: "Séminaire Ciné/sériephilies 2.0 n°4 "
 ---
+
 
 ## Séminaire Ciné/sériephilies 2.0 IRCAV + CEISME
 ### Séance 4
@@ -19,5 +22,3 @@ title: "Séminaire Ciné/sériephilies 2.0 n°4 "
 
 La séance en vidéo c'est par [ici](http://epresence.univ-paris3.fr/3/Watch/1560171.aspx)
 ![]({{site.baseurl}}/media/flyer%20se%CC%81ance%205%20.jpg)![flyer séance 5 .jpg]({{site.baseurl}}/media/flyer séance 5 .jpg)
-
-

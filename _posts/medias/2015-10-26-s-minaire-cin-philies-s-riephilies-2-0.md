@@ -9,8 +9,9 @@ tags:
 "media-view": ""
 "media-rythm": ""
 published: true
-title: Séminaire Cinéphilies/Sériephilies 2.0 n°2
+title: Séminaire Ciné/Sériephilies 2.0 n°2
 ---
+
 
 
 
@@ -22,6 +23,6 @@ title: Séminaire Cinéphilies/Sériephilies 2.0 n°2
 
 **Anne-Sophie Béliard** (Docteure en sociologie): "Les discours sériephiles à l'épreuve du numérique : le cas des blogs de séries télévisées"
 
-La séance en vidéo: [http://epresence.univ-paris3.fr/3/Watch/920463.aspx]( "séance 2")
+La séance en vidéo, c'est par [ici](http://epresence.univ-paris3.fr/3/Watch/920463.aspx]) 
 
 ![]({{site.baseurl}}/)

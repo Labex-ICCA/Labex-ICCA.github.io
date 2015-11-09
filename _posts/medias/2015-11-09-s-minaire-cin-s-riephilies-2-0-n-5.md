@@ -1,15 +1,19 @@
 ---
 categories: Écrits
 layout: post
-author: ""
-tags: null
+author: "mélanie "
+tags: 
+  - sériephilies
+  - blog
+  - cinéphilies
 "media-name": ""
 "media-url": ""
 "media-view": ""
 "media-rythm": ""
-published: false
+published: true
 title: Séminaire Ciné/Sériephilies 2.0 n° 5
 ---
+
 
 ## Séminaire Ciné/Sériephilies 2.0 IRCAV + CEISME
 ### Séance 5

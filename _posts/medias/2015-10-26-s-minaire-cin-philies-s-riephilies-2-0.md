@@ -3,7 +3,10 @@ categories: Écrits
 layout: post
 author: ""
 tags: 
-  - "null"
+  - sériephilie
+  - blog
+  - sens critique
+  - cinéphilie
 "media-name": ""
 "media-url": ""
 "media-view": ""
@@ -11,6 +14,7 @@ tags:
 published: true
 title: Séminaire Ciné/Sériephilies 2.0 n°2
 ---
+
 
 
 

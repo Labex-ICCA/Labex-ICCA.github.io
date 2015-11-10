@@ -165,7 +165,7 @@ prose:
       - name: "categories"
         field:
           element: "hidden"
-          value: "Écrits"
+          value: "Médias"
       - name: "title"
         field:
           element: "text"

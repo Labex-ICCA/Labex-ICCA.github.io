@@ -1,5 +1,5 @@
 ---
-categories: Écrits
+categories: Médias
 author: ""
 tags: null
 "media-name": ""

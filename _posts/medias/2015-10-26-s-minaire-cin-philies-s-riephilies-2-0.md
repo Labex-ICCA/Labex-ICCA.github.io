@@ -1,5 +1,5 @@
 ---
-categories: Écrits
+categories: Médias
 layout: post
 author: ""
 tags: 

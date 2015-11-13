@@ -4,16 +4,6 @@ title: Les actualités
 ---
 
 {% for post in site.categories['actus'] limit:5 %}
-<article class="{{ post.categories | first | downcase | append :'-box'}}">
-  <div class="titre-categorie">
-    <p>{{ post.categories | first }}</p>
-  </div>
-  <div class="content-wrap">
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    <aside class="author">
-      <h4>publié par <strong>{{ post.author }}</strong> le <strong>{{ post.date | date: "%d/%m/%Y" }}</strong></h4>
-    </aside>
-  </div>
-</article>
+{% include article-loop.html %}
 {% endfor %}
 

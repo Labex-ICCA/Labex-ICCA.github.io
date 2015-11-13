@@ -9,16 +9,12 @@ tags:
   - cinéphilie
 "media-name": ""
 "media-url": ""
+"media-date": ""
 "media-view": ""
 "media-rythm": ""
 published: true
 title: Séminaire Ciné/Sériephilies 2.0 n°2
 ---
-
-
-
-
-
 
 ## Séminaire Cinéphilies/Sériephilies 2.0 IRCAV + CEISME
 ### Séance 2

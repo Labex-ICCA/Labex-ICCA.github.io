@@ -8,64 +8,68 @@ layout: default
   {% if page.categories contains 'actus' %}
     <aside class="actus-details">
       <span><span class="details">Publié le :</span><em> {{ page.date | date: "%e %B %Y" }}</em>  &#124;
-      <span class="details">Par </span><em>{{ page.author }}</em></span>
+      {% if post.author and post.author != "" %}<span class="details">Par </span><em>{{ page.author }}</em></span>{% endif %}
     </aside>
   {% endif %}
 
   {% if page.categories contains 'Écrits' %}
+  {% if page.written-director != "" or page.written-writers != "" or page.written-publication != "" or page.written-collection != "" or page.written-number != "" or page.written-editor != "" or page.written-town != "" %}
     <aside>
 
       <div class="fiche-intertitre">
         <h2>Informations Bibliographiques</h2>
       </div>  
 
-      {% if page.written-director %}<p class="direction"><strong>Dirigé par :</strong> {{ page.written-director }}</p>{% endif %}
-      {% if page.written-writers %}<p class="author"><strong>Auteur(s) :</strong> {{ page.written-writers }}</p>{% endif %}
-      {% if page.written-publication %}<p class="dop"><strong>Date de publication :</strong> {{ page.written-publication }}</p>{% endif %}
-      {% if page.written-collection %}<p class="collection"><strong>Collection : </strong> {{ page.written-collection }}</p>{% endif %}
-      {% if page.written-number %}<p class="collection"><strong>Numéro : </strong> {{ page.written-number }}</p>{% endif %}
-      {% if page.written-editor %}<p class="editeur"><strong>Édité par : </strong>{{ page.written-editor }}</p> {% endif %}
-      {% if page.written-town %}<p class="ville"><strong>À :</strong> {{ page.written-town }}</p>{% endif %}
+      {% if page.written-director and page.written-director != "" %}<p class="direction"><strong>Dirigé par :</strong> {{ page.written-director }}</p>{% endif %}
+      {% if page.written-writers and page.written-writers != "" %}<p class="author"><strong>Auteur(s) :</strong> {{ page.written-writers }}</p>{% endif %}
+      {% if page.written-publication and page.written-publication != "" %}<p class="dop"><strong>Date de publication :</strong> {{ page.written-publication }}</p>{% endif %}
+      {% if page.written-collection and page.written-collection != "" %}<p class="collection"><strong>Collection : </strong> {{ page.written-collection }}</p>{% endif %}
+      {% if page.written-number and page.written-number != "" %}<p class="collection"><strong>Numéro : </strong> {{ page.written-number }}</p>{% endif %}
+      {% if page.written-editor and page.written-editor != "" %}<p class="editeur"><strong>Édité par : </strong>{{ page.written-editor }}</p> {% endif %}
+      {% if page.written-town and page.written-town != "" %}<p class="ville"><strong>À :</strong> {{ page.written-town }}</p>{% endif %}
 
     </aside>
-
+  {% endif %}
   {% endif %}
 
   {% if page.categories contains 'médias' %}
+  {% if page.media-name != "" or page.media-date != "" or page.media-view != "" or page.media-rythm != "" or page.media-url != "" %}
     <aside>
   
     <div class="fiche-intertitre">
       <h2>Fiche technique de la source</h2>
     </div>  
 
-    {% if page.media-url %}<p class="source"><strong>Source : </strong><a href="{{ page.media-url }}">{{ page.media-name }}</a></p>{% endif %}
-    {% if page.media-date %}<p class="date-source"><strong>Date de création :</strong> {{ page.media-date }}</p>{% endif %}
-    {% if page.media-view %}<p class="nbre-vues"><strong>Nombres de vues : </strong> {{ page.media-view }}</p>{% endif %}
-    {% if page.media-rythm %}<p class="nb-publi"><strong>Rythme de publication :</strong> {{ page.media-rythm }}</p>{% endif %}
+    {% if page.media-name and page.media-name != "" and page.media-url and page.media-url != "" %}<p class="source"><strong>Source : </strong><a href="{{ page.media-url }}">{{ page.media-name }}</a></p>{% endif %}
+    {% if page.media-date and page.media-date != "" %}<p class="date-source"><strong>Date de création :</strong> {{ page.media-date }}</p>{% endif %}
+    {% if page.media-view and page.media-view != "" %}<p class="nbre-vues"><strong>Nombres de vues : </strong> {{ page.media-view }}</p>{% endif %}
+    {% if page.media-rythm and page.media-rythm != "" %}<p class="nb-publi"><strong>Rythme de publication :</strong> {{ page.media-rythm }}</p>{% endif %}
 
     </aside>
 
     <aside id="fiche-resume">
-    <div class="fiche-intertitre">
-      <h2>Architecture du blog</h2>
+      <div class="fiche-intertitre">
+        <h2>Architecture du blog</h2>
       </div>
     </aside>
 
   {% endif %}
+  {% endif %}
 
 
   {% if page.categories contains 'Événements' %}
+  {% if page.event-title and page.event-title != "" or page.event-date and page.event-date != "" or page.event-information and page.event-information != "" %}
     <div class="fiche-intertitre">
       <h2>L'événement</h2>
     </div>  
     
-    {% if page.event-title %}<p class="titre-evenement"><strong>{{ page.event-title }}</strong></p>{% endif %}
-    {% if page.event-date %}<p class="date-limite"><strong>Dates :</strong> {{ page.event-date }}</p>{% endif %}
-    {% if page.event-information %}<p class="organisation"><strong>Organisation :</strong> {{ page.event-information }}</p>{% endif %}
+    {% if page.event-title and page.event-title != "" %}<p class="titre-evenement"><strong>{{ page.event-title }}</strong></p>{% endif %}
+    {% if page.event-date and page.event-date != "" %}<p class="date-limite"><strong>Dates :</strong> {{ page.event-date }}</p>{% endif %}
+    {% if page.event-information and page.event-information != "" %}<p class="organisation"><strong>Organisation :</strong> {{ page.event-information }}</p>{% endif %}
+  {% endif %}
     
     {% if page.event-contact %}
       <aside>
-      
       
         <div class="fiche-intertitre">
           <h2>Contacts</h2>
@@ -105,5 +109,4 @@ layout: default
   {% endif %}
   {% endif %}
 
-  {% include disqus.html %}
 </article>

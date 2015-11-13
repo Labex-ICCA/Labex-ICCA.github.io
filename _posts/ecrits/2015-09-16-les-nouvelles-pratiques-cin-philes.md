@@ -11,7 +11,7 @@ tags:
 "written-writers": ""
 "written-publication": janvier 2015
 "written-collection": Les Cahiers de Champs Visuels
-"written-number": .nan
+"written-number": ""
 "written-editor": L’Harmattan
 "written-town": Paris
 published: true

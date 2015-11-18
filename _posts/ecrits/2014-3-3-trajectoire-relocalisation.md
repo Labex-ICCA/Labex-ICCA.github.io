@@ -13,11 +13,6 @@ written-town: Paris
 ---
 
 ![Trajectoires de la relocalisation]({{site.baseurl}}/media/livre-02.jpg)
-
-Insérer texte résumé ici.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, repellat accusamus inventore aut cumque consequuntur provident ex eius tempora voluptatibus repudiandae excepturi sint, accusantium tenetur pariatur voluptates necessitatibus. Alias, facere? 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, repellat accusamus inventore aut cumque consequuntur provident ex eius tempora voluptatibus repudiandae excepturi sint, accusantium tenetur pariatur voluptates necessitatibus. Alias, facere?
 		
 
 

@@ -10,7 +10,8 @@ media-view: + 100 000
 media-rythm: 1 par semaine
 ---
 
-<img src="../images/fossoyeur.png" width="800"/>
+![Blog du chroniqueur]({{site.baseurl}}/media/fossoyeur.png)
+
 Phasellus sodales erat quis erat tincidunt, a maximus dolor gravida. Fusce dapibus laoreet consectetur. Morbi placerat volutpat odio, suscipit imperdiet est commodo quis. Maecenas porttitor sapien malesuada orci convallis imperdiet. Sed ultrices nec turpis ac convallis. Praesent auctor orci mattis, ornare urna non, luctus metus. Nunc molestie imperdiet arcu et sollicitudin. Aenean ut tellus a est luctus semper eu eget nibh. Proin ante odio, aliquam a blandit et, molestie sed orci. Mauris hendrerit facilisis neque, a varius dui consequat sed. Pellentesque ullamcorper mattis lorem, nec placerat nulla euismod quis.
 
 

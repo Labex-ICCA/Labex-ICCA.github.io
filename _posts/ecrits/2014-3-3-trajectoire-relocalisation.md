@@ -12,7 +12,7 @@ written-editor: Presse de la Sorbonne Nouvelle
 written-town: Paris
 ---
 
-<img src="../images/livre-02.jpg" />
+![Trajectoires de la relocalisation]({{site.baseurl}}/media/livre-02.jpg)
 
 Insérer texte résumé ici.
 

@@ -6,7 +6,7 @@ categories: Actus
 tags : [cinéphilies, histoire, mesure de l’art, plaisir]
 ---
 
-<img src="../images/biblio.jpg" width="800"/>
+![Une nouvelle bibliothèque]({{site.baseurl}}/media/biblio.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices sodales nulla, id malesuada purus eleifend a. Nunc maximus dapibus leo quis porta. Sed sed pretium sapien, eu blandit diam. Integer feugiat finibus lorem, non suscipit dui dictum quis. Donec ornare, quam vitae ullamcorper lobortis, urna turpis fermentum sem, sed sodales ex metus in nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla varius, leo eget tempor malesuada, orci purus sodales leo, a tempus mauris nunc eget ante. In et ante nisi. Nam nec cursus elit.
 

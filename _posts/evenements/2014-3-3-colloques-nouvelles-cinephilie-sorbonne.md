@@ -13,8 +13,6 @@ author: Laurent Jullier
 published: true
 ---
 
-	
-
 ![conférence sériphilie]({{site.baseurl}}/media/conf2.jpg)
 
 Ce colloque se propose d’analyser la « critique sauvage » des films et des séries télé, plus justement appelée expertise profane par les sociologues de la culture. Il s’agira également de découvrir et d’étudier de quelles façons internet permet de cultiver (de renouveler ?) le plaisir cinématographique et sériephilique.

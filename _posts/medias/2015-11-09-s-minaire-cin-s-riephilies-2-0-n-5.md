@@ -23,4 +23,5 @@ title: Séminaire Ciné/Sériephilies 2.0 n° 5
 **Julia Sabina Gutierrez**(Docteur Paris 3): "La durée des épisodes de séries télévisées espagnoles: un enjeu entre l'industrie audiovisuelle et la pratique spectatorielle"
 
 La séance en vidéo c'est par [ici](http://epresence.univ-paris3.fr/3/Watch/1597583.aspx) 
-![flyer séance 6 V2.jpg]({{site.baseurl}}/media/flyer séance 6 V2.jpg)
+
+![Séminaire Ciné/Sériephilies 2.0 IRCAV + CEISME]({{site.baseurl}}/media/flyer séance 6 V2.jpg)

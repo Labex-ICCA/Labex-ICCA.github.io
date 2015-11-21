@@ -19,7 +19,7 @@ title: "Laurence Allard, Maîtresse de conférences en Sciences de la Communicat
 
 ## Cinéphiles, à vos claviers ! Réception, public et cinéma
 
-### Réseaux  Année 2000  Volume 18  Numéro 99  pp. 131-168
+### Revue Réseaux,  Année 2000,  Volume 18,  Numéro 99,  pp. 131-168
 
 Fait partie d'un numéro thématique : Cinéma et réception
 

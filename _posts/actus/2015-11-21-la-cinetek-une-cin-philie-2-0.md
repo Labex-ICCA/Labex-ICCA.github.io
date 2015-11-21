@@ -2,7 +2,8 @@
 categories: Actus
 layout: post
 author: "mélanie boissonneau "
-tags: null
+tags: 
+  - cinéphilies
 published: true
 title: "La Cinetek, une cinéphilie 2.0 ? "
 ---

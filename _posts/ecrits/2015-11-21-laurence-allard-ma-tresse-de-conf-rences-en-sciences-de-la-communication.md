@@ -3,7 +3,8 @@ categories: Écrits
 layout: post
 author: ""
 tags: 
-  - "null"
+  - "sciences de l'information"
+  - cinéphiles
 "written-director": ""
 "written-writers": ""
 "written-publication": ""

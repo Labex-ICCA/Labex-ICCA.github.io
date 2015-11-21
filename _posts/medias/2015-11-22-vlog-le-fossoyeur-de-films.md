@@ -1,0 +1,27 @@
+---
+categories: Médias
+layout: post
+author: ""
+tags: 
+  - vlog
+  - cinéphiles
+"media-name": Le fossoyeur de films
+"media-url": "https://www.youtube.com/user/deadwattsofficiel/featured"
+"media-view": "464\_859\_abonnés, 36\_810\_226\_vues depuis le 15 septembre 2012 "
+"media-rythm": ""
+published: false
+title: "VLOG - Le Fossoyeur de Films"
+---
+
+[## Le Fossoyeur de films](https://www.youtube.com/user/deadwattsofficiel/featured)
+Rubriques variées: 
+
+**L’après séance**: critique de l'actualité cinématographique
+
+**Thématiques**: Les suites de trop, Les nanars, Zardoz
+
+**Et si...**: Il s'agit pour le Fossoyeur d'imaginer un univers parallèle basé sur un petit changement (par ex une réalité alternative dans laquelle Tom Selleck jouerait Indiana Jones)
+
+**Top 10**: Pire clichés, Des légendes urbaines au cinéma, Des films cultes...
+
+

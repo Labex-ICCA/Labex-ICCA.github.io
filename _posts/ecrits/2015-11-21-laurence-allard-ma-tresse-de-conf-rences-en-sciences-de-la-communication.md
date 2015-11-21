@@ -11,7 +11,7 @@ tags:
 "written-number": 0
 "written-editor": ""
 "written-town": ""
-published: false
+published: true
 title: "Laurence Allard, Maîtresse de conférences en Sciences de la Communication"
 ---
 

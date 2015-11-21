@@ -5,6 +5,7 @@ author: ""
 tags: 
   - "sciences de l'information"
   - cinéphiles
+  - cinéphilie
 "written-director": ""
 "written-writers": ""
 "written-publication": ""
@@ -16,6 +17,7 @@ published: true
 title: "Laurence Allard, Maîtresse de conférences en Sciences de la Communication"
 ---
 
+[Par ici, le wiki de Laurence Allard](http://culturesexpressives.fr/doku.php#le_wiki_de_laurence_allard)
 
 ## "Cinéphiles, à vos claviers ! Réception, public et cinéma"
 

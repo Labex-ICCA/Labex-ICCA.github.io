@@ -17,7 +17,7 @@ title: "Laurence Allard, Maîtresse de conférences en Sciences de la Communicat
 ---
 
 
-## Cinéphiles, à vos claviers ! Réception, public et cinéma
+## "Cinéphiles, à vos claviers ! Réception, public et cinéma"
 
 ### Revue Réseaux,  Année 2000,  Volume 18,  Numéro 99,  pp. 131-168
 
@@ -27,3 +27,11 @@ Le texte est disponible en intégralité [ici](http://www.persee.fr/doc/reso_075
 
 Résumé: 
 L'étude des manifestations publiques des interprétations spectatorielles. L'enquête présentée ici porte sur des énonciations évaluatives émanant de spectateurs cinéphiles s'exprimant sur l'internet, dans le cadre d'un groupe de discussion sur le cinéma, qui, en définitive, questionne radicalement les concepts mêmes de public et de spectateurs.
+
+" Resocialiser les études cinématographiques! Etudes de cas: la cinéphilie en ligne"
+
+Images et Sociétés, sous la direction d'I. Gillet et M. Chandelier, 2003, L'Harmattan. 
+
+Le texte est disponible [ici](http://culturesexpressives.fr/lib/exe/fetch.php?media=cinephilie_en_ligne.pdf)
+
+

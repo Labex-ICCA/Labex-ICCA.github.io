@@ -33,6 +33,8 @@ Vous trouverez l'ensemble des numéros sur Persee.fr:
 
 **[[Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne](https://www.cairn.info/revue-reseaux-2014-1.htm#memo)]**
 
+
+
 Sommaire du n°183, Evaluations profanes: le jugement en ligne: 
 
 **Dominique Pasquier**: _Les jugements profanes en ligne sous le regard des sciences sociales_ (disponible en intégralité [ici](http://www.cairn.info/revue-reseaux-2014-1-page-9.htm)) (page 9 à 25)

@@ -23,11 +23,26 @@ La revue Réseaux est propriété du PRES Université Paris-Est. Elle est propos
 
 
 Vous trouverez l'ensemble des numéros sur Persee.fr:  
+
 [http://www.persee.fr/collection/reso]()
-Sont particulièrement liés au projet cinéphilies/sériephilies 2.O: 
-Les numéros thématiques suivants: 
+
+### Sont particulièrement liés au projet cinéphilies/sériephilies 2.O: 
 [Réseaux, volume 18, n°99, 2000. Cinéma et réception](http://www.persee.fr/issue/reso_0751-7971_2000_num_18_99)
+
 [Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne](https://www.cairn.info/revue-reseaux-2014-1.htm#memo)
+
+Sommaire: 
+Dominique Pasquier: Les jugements profanes en ligne sous le regard des sciences sociales (disponible en intégralité [ici](http://www.cairn.info/revue-reseaux-2014-1-page-9.htm)) (page 9 à 25)
+
+Sidonie Naulin: La blogosphère culinaire. Cartographie d'un espace d'évaluation amateur (page 31 à 62)
+
+Manuel Dupuy-Salle: Les cinéphiles-blogueurs amateurs face aux stratégies de captation professionnelles : entre dépendance et indépendance. (Page 65 à 91) 
+Anne-Sophie Béliard: Jeux croisés entre critique amateur et critique professionnelle dans les blogs de séries télévisées (Page 95 à 121)
+Valérie Beaudouin, Dominique Pasquier: Organisation et hiérarchisation des mondes de la critique amateur cinéphile (Page 125 à 159 )
+
+
+
+
 ![reso_0751-7971_2000_num_18_99.jpeg]({{site.baseurl}}/media/reso_0751-7971_2000_num_18_99.jpeg)
 ![RES_183_L204.jpg]({{site.baseurl}}/media/RES_183_L204.jpg)
 

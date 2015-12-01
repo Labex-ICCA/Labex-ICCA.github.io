@@ -3,7 +3,8 @@ categories: Écrits
 layout: post
 author: ""
 tags: 
-  - "null"
+  - cinéphilies
+  - revue
 "written-director": ""
 "written-writers": ""
 "written-publication": ""

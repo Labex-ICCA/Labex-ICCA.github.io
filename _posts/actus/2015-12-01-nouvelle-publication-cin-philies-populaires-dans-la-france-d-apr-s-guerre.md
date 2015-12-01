@@ -5,9 +5,10 @@ author: ""
 tags: 
   - publication
   - cinéphilies
-published: false
+published: true
 title: "Nouvelle publication: Cinéphilies Populaires dans la France d'après-guerre"
 ---
+
 
 ### Pas de 2.0, mais une publication passionnante sur les Cinémas et Cinéphilies Populaires dans la France d'après-guerre, 1945-1958 (sous la direction de Gwénaëlle Le Gras et Geneviève Sellier) :
 

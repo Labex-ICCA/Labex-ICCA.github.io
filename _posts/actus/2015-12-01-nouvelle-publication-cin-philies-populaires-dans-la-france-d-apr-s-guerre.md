@@ -10,7 +10,7 @@ title: "Nouvelle publication: Cinéphilies Populaires dans la France d'après-gu
 ---
 
 
-### Pas de 2.0, mais une publication passionnante sur les Cinémas et Cinéphilies Populaires dans la France d'après-guerre, 1945-1958 (sous la direction de Gwénaëlle Le Gras et Geneviève Sellier) :
+### Pas de 2.0, mais une publication passionnante sur les _Cinémas et Cinéphilies Populaires dans la France d'après-guerre, 1945-1958_ (sous la direction de Gwénaëlle Le Gras et Geneviève Sellier) :
 
 [La table des matières](http://www.afeccav.org/v3/wp-content/uploads/2015/06/2015-06-25_558c66928ac7c_sommaire.pdf): 
 

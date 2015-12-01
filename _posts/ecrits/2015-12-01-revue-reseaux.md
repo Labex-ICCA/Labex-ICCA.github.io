@@ -28,4 +28,7 @@ Sont particulièrement liés au projet cinéphilies/sériephilies 2.O:
 Les numéros thématiques suivants: 
 [Réseaux, volume 18, n°99, 2000. Cinéma et réception](http://www.persee.fr/issue/reso_0751-7971_2000_num_18_99)
 [Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne](https://www.cairn.info/revue-reseaux-2014-1.htm#memo)
+![reso_0751-7971_2000_num_18_99.jpeg]({{site.baseurl}}/media/reso_0751-7971_2000_num_18_99.jpeg)
+![RES_183_L204.jpg]({{site.baseurl}}/media/RES_183_L204.jpg)
+
 

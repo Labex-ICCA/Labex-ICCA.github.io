@@ -14,8 +14,10 @@ title: "Nouvelle publication: Cinéphilies Populaires dans la France d'après-gu
 
 [La table des matières](http://www.afeccav.org/v3/wp-content/uploads/2015/06/2015-06-25_558c66928ac7c_sommaire.pdf): 
 
-![]({{site.baseurl}}/Capture d’écran 2015-12-01 à 10.24.33)
-![]({{site.baseurl}}/Capture d’écran 2015-12-01 à 10.30.59)
-![]({{site.baseurl}}/Capture d’écran 2015-12-01 à 10.31.15)
-![]({{site.baseurl}}/Capture d’écran 2015-12-01 à 10.31.37)
-![]({{site.baseurl}}/Capture d’écran 2015-12-01 à 10.31.55)
+![Capture d’écran 2015-12-01 à 10.24.33.png]({{site.baseurl}}/media/Capture d’écran 2015-12-01 à 10.24.33.png)
+![Capture d’écran 2015-12-01 à 10.30.59.png]({{site.baseurl}}/media/Capture d’écran 2015-12-01 à 10.30.59.png)
+![Capture d’écran 2015-12-01 à 10.31.15.png]({{site.baseurl}}/media/Capture d’écran 2015-12-01 à 10.31.15.png)
+![Capture d’écran 2015-12-01 à 10.31.37.png]({{site.baseurl}}/media/Capture d’écran 2015-12-01 à 10.31.37.png)
+![Capture d’écran 2015-12-01 à 10.31.55.png]({{site.baseurl}}/media/Capture d’écran 2015-12-01 à 10.31.55.png)
+
+

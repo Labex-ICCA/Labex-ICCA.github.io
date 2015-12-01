@@ -2,7 +2,8 @@
 categories: Écrits
 layout: post
 author: ""
-tags: null
+tags: 
+  - "null"
 "written-director": ""
 "written-writers": ""
 "written-publication": ""
@@ -10,9 +11,10 @@ tags: null
 "written-number": 0
 "written-editor": ""
 "written-town": ""
-published: false
+published: true
 title: Revue RESEAUX
 ---
+
 
 La revue Réseaux – Communication – Technologie – Société s’intéresse à l’ensemble du champ de la communication et plus particulièrement aux télécommunications, aux mass-médias et à l’informatique. La télévision a notamment constitué le thème d’un nombre important de numéros.
 La réflexion sur la communication étant à l’origine de nombreux débats au sein des sciences sociales, des numéros sont aussi consacrés à des questions d’ordre théorique ou méthodologique.
@@ -52,5 +54,3 @@ Sommaire:
 
 ![reso_0751-7971_2000_num_18_99.jpeg]({{site.baseurl}}/media/reso_0751-7971_2000_num_18_99.jpeg)
 ![RES_183_L204.jpg]({{site.baseurl}}/media/RES_183_L204.jpg)
-
-

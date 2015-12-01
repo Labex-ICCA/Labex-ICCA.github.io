@@ -2,7 +2,9 @@
 categories: Actus
 layout: post
 author: ""
-tags: null
+tags: 
+  - publication
+  - cinéphilies
 published: false
 title: "Nouvelle publication: Cinéphilies Populaires dans la France d'après-guerre"
 ---

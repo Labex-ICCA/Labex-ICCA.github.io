@@ -29,9 +29,9 @@ Vous trouverez l'ensemble des numéros sur Persee.fr:
 [http://www.persee.fr/collection/reso]()
 
 ### Sont particulièrement liés au projet cinéphilies/sériephilies 2.O: 
-[Réseaux, volume 18, n°99, 2000. Cinéma et réception](http://www.persee.fr/issue/reso_0751-7971_2000_num_18_99)
+**[Réseaux, volume 18, n°99, 2000. Cinéma et réception]**(http://www.persee.fr/issue/reso_0751-7971_2000_num_18_99)
 
-[Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne](https://www.cairn.info/revue-reseaux-2014-1.htm#memo)
+**[Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne]**(https://www.cairn.info/revue-reseaux-2014-1.htm#memo)
 
 Sommaire: 
 

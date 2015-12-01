@@ -32,13 +32,20 @@ Vous trouverez l'ensemble des numéros sur Persee.fr:
 [Réseaux, n°183, 2014. Évaluations profanes : le jugement en ligne](https://www.cairn.info/revue-reseaux-2014-1.htm#memo)
 
 Sommaire: 
-Dominique Pasquier: Les jugements profanes en ligne sous le regard des sciences sociales (disponible en intégralité [ici](http://www.cairn.info/revue-reseaux-2014-1-page-9.htm)) (page 9 à 25)
 
-Sidonie Naulin: La blogosphère culinaire. Cartographie d'un espace d'évaluation amateur (page 31 à 62)
+**Dominique Pasquier**: _Les jugements profanes en ligne sous le regard des sciences sociales_ (disponible en intégralité [ici](http://www.cairn.info/revue-reseaux-2014-1-page-9.htm)) (page 9 à 25)
 
-Manuel Dupuy-Salle: Les cinéphiles-blogueurs amateurs face aux stratégies de captation professionnelles : entre dépendance et indépendance. (Page 65 à 91) 
-Anne-Sophie Béliard: Jeux croisés entre critique amateur et critique professionnelle dans les blogs de séries télévisées (Page 95 à 121)
-Valérie Beaudouin, Dominique Pasquier: Organisation et hiérarchisation des mondes de la critique amateur cinéphile (Page 125 à 159 )
+**Sidonie Naulin**: _La blogosphère culinaire. Cartographie d'un espace d'évaluation amateur _(page 31 à 62)
+
+**Manuel Dupuy-Salle**: _Les cinéphiles-blogueurs amateurs face aux stratégies de captation professionnelles : entre dépendance et indépendance_. (Page 65 à 91) 
+
+**Anne-Sophie Béliard**: _Jeux croisés entre critique amateur et critique professionnelle dans les blogs de séries télévisées _(Page 95 à 121)
+
+**Valérie Beaudouin, Dominique Pasquier**: _Organisation et hiérarchisation des mondes de la critique amateur cinéphile _(Page 125 à 159 )
+
+**Thomas Beauvisage, Jean-Samuel Beuscart, Kevin Mellet, Marie Trespeuch**: _Une démocratisation du marché ? Notes et avis de consommateurs sur le Web dans le secteur de la restauration_ (Page 163 à 204 )
+
+**Vincent Cardon**: _Des chiffres et des lettres. Évaluation, expressions du jugement de qualité et hiérarchies sur le marché de l'hôtellerie_ (Page 207 à 245)
 
 
 

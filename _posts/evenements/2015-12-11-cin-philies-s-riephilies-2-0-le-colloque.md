@@ -1,12 +1,12 @@
 ---
 categories: Événements
 layout: post
-author: ""
-"event-title": ""
-"event-date": "30 Juin 2015 / 23:30"
+author: CS2.0 Team
+"event-title": Colloque International Cinéphilies/Sériephilies 2.0
+"event-date": 26 Janvier 2016/ 27 Janvier 2016
 "event-information": ""
 "event-contact": 
-  - "null"
+  - "cinephilies2.0@gmail.com"
 published: true
 title: "Cinéphilies/Sériephilies 2.0: le colloque! "
 ---

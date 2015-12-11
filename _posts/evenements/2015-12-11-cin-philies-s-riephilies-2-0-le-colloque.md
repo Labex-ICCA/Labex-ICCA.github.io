@@ -13,6 +13,9 @@ title: "Colloque Cinéphilies/Sériephilies 2.0: l'affiche! "
 
 
 
+
 ## L'affiche du colloque, en attendant le programme détaillé...
 
-![AfficheCinephiliesSeriphilies20versiondefinitive.jpg]({{site.baseurl}}/media/AfficheCinephiliesSeriphilies20versiondefinitive.jpg)
+![AfficheCinephiliesSeriphilies20versiondefinitivelight.jpg]({{site.baseurl}}/media/AfficheCinephiliesSeriphilies20versiondefinitivelight.jpg)
+
+

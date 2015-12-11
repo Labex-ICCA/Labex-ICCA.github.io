@@ -29,11 +29,11 @@ Lieu : Maison de la Recherche (4 rue des irlandais 75005 Paris)
 
 ### Intervenant.e.s:
 
-**Sabrina Bouaour** (Paris 3) : « _Sériephilies 2.0 et enjeux identitaires. Le cas de Orange is the New Black _». 
+**Sabrina Bouaour** (Paris 3) : «_Sériephilies 2.0 et enjeux identitaires. Le cas de Orange is the New Black_». 
 
 **Hélène Breda** (Paris 3) : « _La critique militante intersectionnelle de films et de séries télévisées sur Internet_ ». 
 
-**Delphine Chedaleux** (Bordeaux Montaigne) : « _Fans de Cinquante Nuances de Grey sur les réseaux sociaux : des femmes manipulées? _». 
+**Delphine Chedaleux** (Bordeaux Montaigne) : «_Fans de Cinquante Nuances de Grey sur les réseaux sociaux : des femmes manipulées?_». 
 
 **Mehdi Derfoufi** (Université de Lausanne, IRCAV, OMNSH) : « _(Re)construire la norme : Cinéphilie, sériephilie, et culture geek_ ».
 

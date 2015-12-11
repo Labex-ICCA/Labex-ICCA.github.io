@@ -8,8 +8,9 @@ author: "mélanie "
 "event-contact": 
   - "cinephilies2.0@gmail.com"
 published: true
-title: "Cinéphilies/Sériephilies 2.0: le colloque! "
+title: "Colloque Cinéphilies/Sériephilies 2.0: l'affiche! "
 ---
+
 
 
 ## L'affiche du colloque, en attendant le programme détaillé...

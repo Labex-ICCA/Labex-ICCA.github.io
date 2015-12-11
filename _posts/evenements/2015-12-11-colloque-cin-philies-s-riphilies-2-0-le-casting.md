@@ -1,12 +1,12 @@
 ---
 categories: Événements
 layout: post
-author: ""
-"event-title": ""
-"event-date": "30 Juin 2015 / 23:30"
+author: "mélanie "
+"event-title": Colloque Cinéphilies/Sériephilies 2.0
+"event-date": 26 et 27 janvier 2016
 "event-information": ""
 "event-contact": 
-  - "null"
+  - "cinephilies2.0@gmail.com"
 published: true
 title: "Colloque Cinéphilies/sériphilies 2.0: le casting! "
 ---

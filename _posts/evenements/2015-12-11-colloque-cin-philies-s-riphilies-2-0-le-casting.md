@@ -5,10 +5,12 @@ author: ""
 "event-title": ""
 "event-date": "30 Juin 2015 / 23:30"
 "event-information": ""
-"event-contact": null
-published: false
+"event-contact": 
+  - "null"
+published: true
 title: "Colloque Cinéphilies/sériphilies 2.0: le casting! "
 ---
+
 
 ## Colloque Cinéphilies/sériphilies 2.0
 Dates : 26 et 27 janvier 2016
@@ -35,9 +37,4 @@ Lieu : Maison de la Recherche (4 rue des irlandais 75005 Paris)
 **Jules Sandeau**(Bordeaux 3) : « Le cinéphile 2.0 et ses autres : la réception de Drive (N.W. Refn, 2011) sur internet en France et aux Etats-Unis ».
 **Vivien Sica** (Paris 3, BNF) : « Du critique 2.0 au pédagogue 2.0 : déconstruire le discours de Durendal ». 
 **Virginie Spies** (MCF Université Avignon) : « « Clem ! Félicitations pour ton beau mariage », La parole des internautes au service du marketing télévisuel ». 
-**Yann Vilain** (Paris 3) : « Regard croisé sur la réception de Goal of the Dead : des forums communautaires de Mad Movies aux sites généralistes ». 
-
-
-
-
-
+**Yann Vilain** (Paris 3) : « Regard croisé sur la réception de Goal of the Dead : des forums communautaires de Mad Movies aux sites généralistes ».

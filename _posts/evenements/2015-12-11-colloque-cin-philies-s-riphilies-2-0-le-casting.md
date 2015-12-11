@@ -40,9 +40,9 @@ Lieu : Maison de la Recherche (4 rue des irlandais 75005 Paris)
 
 **Salomé La Sala-Urbain** (Paris 3) : « Usage(s) de la ciné-webophilie critique associée au cinéma de Quentin Tarantino sur Allociné et Sens Critique ». 
 
-**Quentin Mazel **(Paris 3) : « La « résurrection » du Fanzine cinéma à l’ère d’Internet ». 
+**Quentin Mazel**(Paris 3) : « La « résurrection » du Fanzine cinéma à l’ère d’Internet ». 
 
-**Thomas Pillard **(Paris 3, Bordeaux 3) : « Cinéphilies ordinaires, des années 20 aux années 2.0 : quelles convergences et quelles évolutions ? ».
+**Thomas Pillard**(Paris 3, Bordeaux 3) : « Cinéphilies ordinaires, des années 20 aux années 2.0 : quelles convergences et quelles évolutions ? ».
 
 **Julia Sabina Gutiérrez** (Paris 3) : « L’influence du spoiler dans les critiques des épisodes des séries de TV ». 
 

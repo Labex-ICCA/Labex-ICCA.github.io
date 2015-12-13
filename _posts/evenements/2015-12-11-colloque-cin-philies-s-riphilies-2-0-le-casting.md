@@ -12,6 +12,7 @@ title: "Colloque Cinéphilies/sériphilies 2.0: le casting! "
 ---
 
 
+
 ## Colloque Cinéphilies/sériphilies 2.0
 Dates : 26 et 27 janvier 2016
 Lieu : Maison de la Recherche (4 rue des irlandais 75005 Paris)
@@ -43,7 +44,7 @@ Lieu : Maison de la Recherche (4 rue des irlandais 75005 Paris)
 
 **Quentin Mazel** (Paris 3) : « _La « résurrection » du Fanzine cinéma à l’ère d’Internet_ ». 
 
-**Thomas Pillard** (Paris 3, Bordeaux 3) : « _Cinéphilies ordinaires, des années 20 aux années 2.0 : quelles convergences et quelles évolutions ?_ ».
+**Thomas Pillard** (Paris 3, Bordeaux Montaigne, Lausanne) : « _Cinéphilies ordinaires, des années 20 aux années 2.0 : quelles convergences et quelles évolutions ?_ ».
 
 **Julia Sabina Gutiérrez** (Paris 3) : « _L’influence du spoiler dans les critiques des épisodes des séries de TV_ ». 
 

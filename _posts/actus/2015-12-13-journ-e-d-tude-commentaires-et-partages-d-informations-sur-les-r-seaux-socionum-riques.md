@@ -3,7 +3,7 @@ categories: Actus
 layout: post
 author: ""
 tags: 
-  - "null"
+  - réseaux
 published: true
 title: "Journée d’étude : Commentaires et partages d’informations sur les réseaux socionumériques"
 ---

@@ -2,10 +2,12 @@
 categories: Actus
 layout: post
 author: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Journée d’étude : Commentaires et partages d’informations sur les réseaux socionumériques"
 ---
+
 
 ## Journée d’étude : Commentaires et partages d’informations sur les réseaux socionumériques
 

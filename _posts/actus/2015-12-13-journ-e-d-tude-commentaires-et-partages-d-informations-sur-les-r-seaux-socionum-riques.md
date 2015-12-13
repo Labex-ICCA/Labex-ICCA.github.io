@@ -27,3 +27,5 @@ Quelles rhétoriques sont mobilisées dans ces messages ? Comment les internaute
 
  
 Suivez les échanges sur Twitter : @obsweb   & #Obsweb
+
+Le programme de la journée c'est par [ici](http://crem.univ-lorraine.fr/journee-detude-commentaires-et-partages-dinformations-sur-les-reseaux-socionumeriques)

@@ -19,7 +19,7 @@ title: "Genres en séries: cinéma, télévision, médias"
 ---
 
 
-[## Genres en séries: cinéma, télévision, médias](http://genreenseries.weebly.com/)
+## [ Genres en séries: cinéma, télévision, médias](http://genreenseries.weebly.com/)
 Revue scientifique en ligne hébergée par la Maison des Sciences de l’Homme d’Aquitaine Genre en séries : cinéma, télévision, médias ambitionne d’être une revue universitaire en ligne  pratiquant les critères scientifiques (comité scientifique international, évaluation en double aveugle), pour explorer la manière dont le genre (gender) traverse les cultures médiatiques.
 
 ### 2015/2
@@ -54,6 +54,7 @@ _Varia_
 La réception des modèles de genre par les publics des émissions télévisuelles de relooking
 
 _Notes de lecture_
+
 **Marie-Pierre Huillet**
 Noël Burch et Geneviève Sellier, Ignorée de tous... sauf du public. Quinze ans de fiction télévisée française 1995-2010,
 Paris, INA, 2014, 320 pages 

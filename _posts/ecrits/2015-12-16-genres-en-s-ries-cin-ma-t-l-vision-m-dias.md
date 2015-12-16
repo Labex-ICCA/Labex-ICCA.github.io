@@ -14,9 +14,10 @@ tags:
 "written-number": 0
 "written-editor": ""
 "written-town": ""
-published: false
+published: true
 title: "Genres en séries: cinéma, télévision, médias"
 ---
+
 
 [## Genres en séries: cinéma, télévision, médias](http://genreenseries.weebly.com/)
 Revue scientifique en ligne hébergée par la Maison des Sciences de l’Homme d’Aquitaine Genre en séries : cinéma, télévision, médias ambitionne d’être une revue universitaire en ligne  pratiquant les critères scientifiques (comité scientifique international, évaluation en double aveugle), pour explorer la manière dont le genre (gender) traverse les cultures médiatiques.
@@ -64,4 +65,3 @@ Paris, Ina Editions, 2014, 151 pages
 **Achilleas Papakonstantis**
 Thomas Pillard, Le Film noir français face aux bouleversements de la France d'après-guerre (1946-1960),
 Nantes, Editions Joseph K, 2014, 352 pages
-

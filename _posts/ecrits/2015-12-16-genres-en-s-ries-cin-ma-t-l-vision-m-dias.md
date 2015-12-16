@@ -54,11 +54,11 @@ _Varia_
 
 _Notes de lecture_:
 
-**Marie-Pierre Huillet**: **Noël Burch et Geneviève Sellier**, _Ignorée de tous... sauf du public. Quinze ans de fiction télévisée française 1995-2010_,
+**Marie-Pierre Huillet**: Noël Burch et Geneviève Sellier, _Ignorée de tous... sauf du public. Quinze ans de fiction télévisée française 1995-2010_,
 Paris, INA, 2014, 320 pages 
 
-**Doriane Montmasson**: **Mélanie Lallet**, _Il était une fois…le genre. Le féminin dans les séries animées françaises_,
+**Doriane Montmasson**: Mélanie Lallet, _Il était une fois…le genre. Le féminin dans les séries animées françaises_,
 Paris, Ina Editions, 2014, 151 pages
 
-**Achilleas Papakonstantis**: **Thomas Pillard**, _Le Film noir français face aux bouleversements de la France d'après-guerre (1946-1960)_,
+**Achilleas Papakonstantis**: Thomas Pillard, _Le Film noir français face aux bouleversements de la France d'après-guerre (1946-1960)_,
 Nantes, Editions Joseph K, 2014, 352 pages

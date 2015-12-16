@@ -1,11 +1,15 @@
 ---
 categories: Écrits
 layout: post
-author: ""
-tags: null
+author: coordonné par Laetitia Biscarrat et Gwénaëlle Le Gras
+tags: 
+  - cinéphilie
+  - sériephilie
+  - genre
+  - gender
 "written-director": ""
 "written-writers": ""
-"written-publication": ""
+"written-publication": "2015"
 "written-collection": ""
 "written-number": 0
 "written-editor": ""

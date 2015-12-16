@@ -23,8 +23,7 @@ title: "Genres en séries: cinéma, télévision, médias"
 Revue scientifique en ligne hébergée par la Maison des Sciences de l’Homme d’Aquitaine Genre en séries : cinéma, télévision, médias ambitionne d’être une revue universitaire en ligne  pratiquant les critères scientifiques (comité scientifique international, évaluation en double aveugle), pour explorer la manière dont le genre (gender) traverse les cultures médiatiques.
 
 ### 2015/2
-Les séries américaines à l’épreuve du genre
-coordonné par Laetitia Biscarrat et Gwénaëlle Le Gras
+### Les séries américaines à l’épreuve du genre, coordonné par Laetitia Biscarrat et Gwénaëlle Le Gras
 
 **Laetitia Biscarrat et Gwénaëlle Le Gras**
 Productions, représentations et appropriations genrées des fictions sérielles

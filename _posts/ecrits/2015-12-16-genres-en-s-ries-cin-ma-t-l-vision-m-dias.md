@@ -1,13 +1,13 @@
 ---
 categories: Écrits
 layout: post
-author: coordonné par Laetitia Biscarrat et Gwénaëlle Le Gras
+author: mélanie
 tags: 
   - cinéphilie
   - sériephilie
   - genre
   - gender
-"written-director": ""
+"written-director": Laetitia Biscarrat et Gwénaëlle Le Gras
 "written-writers": ""
 "written-publication": "2015"
 "written-collection": ""
@@ -17,6 +17,7 @@ tags:
 published: true
 title: "Genres en séries: cinéma, télévision, médias"
 ---
+
 
 
 ## [ Genres en séries: cinéma, télévision, médias](http://genreenseries.weebly.com/)

@@ -8,7 +8,7 @@ author: ""
 "event-contact": 
   - "null"
 published: true
-title: "Colloque: Le Programme! "
+title: "Colloque Cinéphilies/Sériephilies 2.0: Le Programme! "
 ---
 
 
